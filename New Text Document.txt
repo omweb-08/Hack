@@ -1,0 +1,114 @@
+127.0.0.1 - - [09/Feb/2026 14:25:04] "POST /chat HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 14:25:13] "POST /chat HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 14:25:20] "POST /chat HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 14:25:25] "POST /chat HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 14:25:56] "POST /chat HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 14:26:16] "POST /chat HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 14:26:25] "GET /download HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 14:27:41] "POST /chat HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 14:27:52] "POST /chat HTTP/1.1" 200 -
+PS C:\Users\omm61\OneDrive\Desktop\hackthon> & C:/Users/omm61/AppData/Local/Programs/Python/Python313/python.exe c:/Users/omm61/OneDrive/Desktop/hackthon/app.py
+ * Serving Flask app 'app'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 122-358-057
+127.0.0.1 - - [09/Feb/2026 14:40:58] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 14:40:58] "GET /static/style.css HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 14:40:58] "GET /static/script.js HTTP/1.1" 304 -
+127.0.0.1 - - [09/Feb/2026 14:41:11] "POST /chat HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 14:41:27] "POST /chat HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 14:41:34] "POST /chat HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 14:41:57] "POST /chat HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 14:42:19] "POST /chat HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 14:42:31] "POST /chat HTTP/1.1" 200 -
+PS C:\Users\omm61\OneDrive\Desktop\hackthon> & C:/Users/omm61/AppData/Local/Programs/Python/Python313/python.exe c:/Users/omm61/OneDrive/Desktop/hackthon/app.py
+ * Serving Flask app 'app'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 122-358-057
+127.0.0.1 - - [09/Feb/2026 14:43:45] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 14:43:45] "GET /static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [09/Feb/2026 14:43:45] "GET /static/script.js HTTP/1.1" 304 -
+127.0.0.1 - - [09/Feb/2026 14:43:45] "GET /favicon.ico HTTP/1.1" 404 -
+127.0.0.1 - - [09/Feb/2026 14:43:57] "POST /chat HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 14:44:07] "POST /chat HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 14:44:14] "POST /chat HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 14:44:24] "POST /chat HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 14:44:35] "POST /chat HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 14:44:41] "POST /chat HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 14:44:59] "POST /chat HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 14:45:16] "GET /download HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 15:20:14] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 15:20:14] "GET /static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [09/Feb/2026 15:20:14] "GET /static/script.js HTTP/1.1" 304 -
+127.0.0.1 - - [09/Feb/2026 15:21:24] "POST /chat HTTP/1.1" 200 -
+PS C:\Users\omm61\OneDrive\Desktop\hackthon> & C:/Users/omm61/AppData/Local/Programs/Python/Python313/python.exe c:/Users/omm61/OneDrive/Desktop/hackthon/app.py^C
+PS C:\Users\omm61\OneDrive\Desktop\hackthon> & C:/Users/omm61/AppData/Local/Programs/Python/Python313/python.exe c:/Users/omm61/OneDrive/Desktop/hackthon/app.py
+ * Serving Flask app 'app'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 122-358-057
+127.0.0.1 - - [09/Feb/2026 16:02:28] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 16:02:28] "GET /static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [09/Feb/2026 16:02:28] "GET /static/script.js HTTP/1.1" 304 -
+127.0.0.1 - - [09/Feb/2026 16:02:46] "POST /chat HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 16:02:57] "POST /chat HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 16:03:08] "POST /chat HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 16:03:14] "POST /chat HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 16:03:24] "POST /chat HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 16:03:30] "POST /chat HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 16:03:33] "POST /chat HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 16:03:35] "GET /download HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 16:13:27] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 16:13:27] "GET /static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [09/Feb/2026 16:13:27] "GET /static/script.js HTTP/1.1" 304 -
+127.0.0.1 - - [09/Feb/2026 16:42:30] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 16:42:30] "GET /static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [09/Feb/2026 16:42:30] "GET /static/script.js HTTP/1.1" 304 -
+127.0.0.1 - - [09/Feb/2026 16:42:57] "POST /chat HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 16:43:00] "GET /download HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 16:45:58] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 16:45:58] "GET /static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [09/Feb/2026 16:45:58] "GET /static/script.js HTTP/1.1" 304 -
+PS C:\Users\omm61\OneDrive\Desktop\hackthon> & C:/Users/omm61/AppData/Local/Programs/Python/Python313/python.exe c:/Users/omm61/OneDrive/Desktop/hackthon/app.py
+ * Serving Flask app 'app'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 122-358-057
+
+ *  History restored 
+
+PS C:\Users\omm61\OneDrive\Desktop\hackthon> & C:/Users/omm61/AppData/Local/Programs/Python/Python313/python.exe c:/Users/omm61/OneDrive/Desktop/hackthon/hackthon1.py
+C:\Users\omm61\AppData\Local\Programs\Python\Python313\python.exe: can't open file 'c:\\Users\\omm61\\OneDrive\\Desktop\\hackthon\\hackthon1.py': [Errno 2] No such file or directory
+PS C:\Users\omm61\OneDrive\Desktop\hackthon> & C:/Users/omm61/AppData/Local/Programs/Python/Python313/python.exe c:/Users/omm61/OneDrive/Desktop/hackthon/hackthon1.py
+C:\Users\omm61\AppData\Local\Programs\Python\Python313\python.exe: can't open file 'c:\\Users\\omm61\\OneDrive\\Desktop\\hackthon\\hackthon1.py': [Errno 2] No such file or directory
+PS C:\Users\omm61\OneDrive\Desktop\hackthon> ^C
+PS C:\Users\omm61\OneDrive\Desktop\hackthon> & C:/Users/omm61/AppData/Local/Programs/Python/Python313/python.exe c:/Users/omm61/OneDrive/Desktop/hackthon/app.py
+ * Serving Flask app 'app'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on http://127.0.0.1:5000
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 122-358-057
+127.0.0.1 - - [09/Feb/2026 19:42:46] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [09/Feb/2026 19:42:46] "GET /static/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [09/Feb/2026 19:42:46] "GET /static/script.js HTTP/1.1" 304 -
+127.0.0.1 - - [09/Feb/2026 19:42:51] "POST /chat HTTP/1.1" 200 -
